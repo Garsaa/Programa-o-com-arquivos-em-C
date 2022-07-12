@@ -26,3 +26,14 @@ Menu:
 
 
 2-
+Desenvolva um programa que controle as compras do supermercado. Para isso deve-se inserir os itens da lista de compras em um arquivo. Você irá armazenar o produto (pode ser código ou nome) e a quantidade a ser comprada. Durante a compra o arquivo deve ser atualizado com a informação sobre o preço do item e se ele estava disponível ou não no mercado. Você deve implementar um menu:
+
+1*   Insere item na lista de compras 
+
+2*   Insere situação (disponível ou em falta)
+
+3*   Valor do item 
+
+4*   Imprime a lista de compras
+
+5*   Fim
