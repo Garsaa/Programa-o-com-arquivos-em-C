@@ -1,4 +1,4 @@
-# Programa-o-com-arquivos-em-C
+# Programação-com-arquivos-em-C
 Exercícios com programação utilizando arquivos em C
 
 Arquivos é um tópico abordado em C, tópico que abrange o armazenamento de dados em arquivos por meio de programação em C.
